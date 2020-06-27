@@ -17,6 +17,7 @@ The goal of this project is to wrangle the WeRateDogs Twitter data to create int
 * output file with the wrangled data of this data wrangling/cleaning exercise of the former bullit:
   - twitter_overal_table pandas dataframe saved in the `twitter_archive_master.csv` file
   - twitter_overal_table pandas dataframe is also saved in the `bestofrt.db database` file
+  
 And the 2 report files:
 * the `wrangle_report_DIRK_KADIJK.ipynb` file of this report which describes the wrangling/cleaning efforts and outputs
 * the `act_report_DIRK_KADIJK.ipynb` file which communicates the insight and visualizations produced from the wrangled data
