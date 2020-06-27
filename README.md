@@ -2,17 +2,28 @@
 
 ## Introduction
 
-This project focused on wrangling data from the WeRateDogs Twitter account using Python, documented in a Jupyter Notebook (wrangle_act.ipynb). This Twitter account rates dogs with humorous commentary. The rating denominator is usually 10, however, the numerators are usually greater than 10. They’re Good Dogs Brent wrangles WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. WeRateDogs has over 4 million followers and has received international media coverage.
+This project focused on wrangling data from the WeRateDogs Twitter account using Python, documented in a Jupyter Notebook (wrangle_act.ipynb). This Twitter account rates dogs with humorous commentary. The rating denominator is usually 10, however, the numerators are usually greater than 10.  The numerators, however? Almost always higher than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs, Brent." WeRateDogs has over 4 million followers and has received international media coverage. 
 
-WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for us to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
+## Project Details
+
+    Data wrangling, which consists of:
+       Gathering data
+       Assessing data
+       Cleaning data
+
+    Storing, analyzing, and visualizing your wrangled data
+
+    Reporting on 1) Data wrangling efforts and 2) Data analyses and visualizations
 
 The goal of this project is to wrangle the WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The challenge lies in the fact that the Twitter archive is great, but it only contains very basic tweet information that comes in JSON format. I needed to gather, assess and clean the Twitter data for a worthy analysis and visualization.
 
 ## What are the input and output files of the project?
 
-* inputfiles: see url's in Origin of data sources section above:
+Inputfiles: see url's in Origin of data sources section above:
   - `twitter_archive_enhanced.csv` file with basic data of the WeRateDogs tweeets
   - `image_predictons.tsv` file with dog breed predictions of neural network
+ 
+Work files:
 * `wrangle_act v1.2_DIRK.ipynb` : this is the extensive notebook with all details about the data gathering, wrangling and cleaning
 * output file with the wrangled data of this data wrangling/cleaning exercise of the former bullit:
   - twitter_overal_table pandas dataframe saved in the `twitter_archive_master.csv` file
