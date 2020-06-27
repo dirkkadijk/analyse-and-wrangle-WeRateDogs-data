@@ -53,11 +53,12 @@ In this project, I'll be using Tweepy to query Twitter's API for data included i
 ## Research Questions
 
 This investigation of WeRateDogs data is focused on the following 3 research questions:
-    * Research Question #1: To what extend is there a possitive correlation between a high rating_numerator at the one end, and a higher favorite_count (or retweet_count) at the other hand.
 
-    * Research Question #2: Does filtering out of the "non-dog" predictions and the #1 predictions with probability <70% improve the correlation between rating_numerator and retweet_count / favorite_count? 
+* Research Question #1: To what extend is there a possitive correlation between a high rating_numerator at the one end, and a higher favorite_count (or     retweet_count) at the other hand.
 
-    * Research Question #3: Which dograces (dog breeds) are top performing in terms of rating_numerator ?¶ 
+* Research Question #2: Does filtering out of the "non-dog" predictions and the #1 predictions with probability <70% improve the correlation between rating_numerator and retweet_count / favorite_count? 
+
+* Research Question #3: Which dograces (dog breeds) are top performing in terms of rating_numerator ?¶ 
 
 
 
