@@ -13,7 +13,7 @@ The goal of this project is to wrangle the WeRateDogs Twitter data to create int
 * inputfiles: see url's in Origin of data sources section above:
   - `twitter_archive_enhanced.csv` file with basic data of the WeRateDogs tweeets
   - `image_predictons.tsv` file with dog breed predictions of neural network
-* `wrangle_act v1.0_DIRK.ipynb` : this is the extensive notebook with all details about the data gathering, wrangling and cleaning
+* `wrangle_act v1.2_DIRK.ipynb` : this is the extensive notebook with all details about the data gathering, wrangling and cleaning
 * output file with the wrangled data of this data wrangling/cleaning exercise of the former bullit:
   - twitter_overal_table pandas dataframe saved in the `twitter_archive_master.csv` file
   - twitter_overal_table pandas dataframe is also saved in the `bestofrt.db database` file
