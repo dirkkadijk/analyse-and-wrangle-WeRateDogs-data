@@ -1,4 +1,4 @@
-# analyse-and-wrangle-WeRateDogs-data
+# wrangle-analyse-report-on-WeRateDogs-data
 
 ## Introduction
 
