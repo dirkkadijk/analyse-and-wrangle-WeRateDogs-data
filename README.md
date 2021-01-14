@@ -6,7 +6,7 @@ This project focused on wrangling data from the WeRateDogs Twitter account using
 
 ## Project Details
 
-    Data wrangling, which consists of:
+Data wrangling, which consists of:
        Gathering data
        Assessing data
        Cleaning data
